@@ -12,7 +12,7 @@ Clone the Repository:
 
 Execute the script to perform the security audit and server hardening:
 
-````./audit_harden.sh```
+```./audit_harden.sh```
 
 ## Customize Configuration:
 
